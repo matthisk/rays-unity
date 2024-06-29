@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 358a7ee4c3e2b4a21a637f5e6fa29317
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rayTracingShader: {fileID: 4800000, guid: 0ab30e932814d4fc8bd937b26717e274, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
